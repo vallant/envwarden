@@ -1,0 +1,5 @@
+click>=8.0.0
+
+# Development dependencies
+# For testing: python -m unittest (built-in)
+# Optional: pytest, flake8, black
